@@ -20,7 +20,6 @@ This project presents a detailed analysis of developer trends based on the Stack
 - **Tab 2 – Future Technology Trends**  
 - **Tab 3 – Demographics & Platform Insights**
 
-> 📷 Screenshots of these tabs can be found in the `Screenshots` folder.
 
 ---
 
